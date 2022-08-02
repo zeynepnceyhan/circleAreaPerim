@@ -1,0 +1,15 @@
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\bin\Debug\net6.0\circleAreaPerim.exe
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\bin\Debug\net6.0\circleAreaPerim.deps.json
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\bin\Debug\net6.0\circleAreaPerim.runtimeconfig.json
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\bin\Debug\net6.0\circleAreaPerim.dll
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\bin\Debug\net6.0\circleAreaPerim.pdb
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\circleAreaPerim.csproj.AssemblyReference.cache
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\circleAreaPerim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\circleAreaPerim.AssemblyInfoInputs.cache
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\circleAreaPerim.AssemblyInfo.cs
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\circleAreaPerim.csproj.CoreCompileInputs.cache
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\circleAreaPerim.dll
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\refint\circleAreaPerim.dll
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\circleAreaPerim.pdb
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\circleAreaPerim.genruntimeconfig.cache
+C:\Users\zeynep\source\repos\circleAreaPerim\circleAreaPerim\obj\Debug\net6.0\ref\circleAreaPerim.dll
